@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+//kje si emir
 public class Hangman {
 
 	public static void main(String[] args) {
